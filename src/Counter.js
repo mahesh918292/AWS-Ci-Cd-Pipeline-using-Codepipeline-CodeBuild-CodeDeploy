@@ -14,6 +14,7 @@ const Counter=()=>{
             return <li> {i} </li>
         })
     }
+<p> Added new text after creating ci/cd </p>
     </>
 }
 export default Counter
